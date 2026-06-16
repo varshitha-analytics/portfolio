@@ -1,6 +1,3 @@
-# portfolio
-My Data Analytics Portfolio Website
-
 # Varshitha U - Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio.
