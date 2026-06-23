@@ -13,5 +13,25 @@ This repository contains my data analytics projects, learning journey, and portf
 * Identified Highest and Lowest Scores
 * Created Student Performance Analysis Chart
 
+## 2. Sales Dashboard
+
+### Tools Used:
+- Microsoft Excel
+
+### Features:
+- Total Revenue Analysis
+- Highest Sale Calculation
+- Average Sales Calculation
+- Product-wise Analysis
+- Region-wise Analysis
+- Dashboard Creation
+
+### Skills Used:
+- SUM
+- AVERAGE
+- MAX
+- Charts
+- Data Visualization
+
 More projects will be added as I continue learning Data Analytics.
 
